@@ -1,6 +1,6 @@
-# tsk_3
+# Augersoft task_3
 
-A new Flutter project.
+A Flutter Project for implementation of Gridviews, Network Images and Containers along with their decoration Properties.
 
 ## Getting Started
 
